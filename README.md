@@ -1,2 +1,2 @@
 # SORTING
-Bubble , Insertion , Selection Sort 
+Bubble , Insertion , Selection Sort .
